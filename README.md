@@ -2,10 +2,10 @@
 Why R? 2021 Turkey konferansında sunulan çalışmaların özet, sunum ve video kayıtlarını içerir.
 
 
-| Oturum              | Saat                          | Konuşmacı            | Kurum                 | Başlık                  | Özet | Sunum | Video |
-|---------------------|-------------------------------|----------------------|-----------------------|-------------------------|------|-------|-------|
+| Oturum              | Saat                          | Konuşmacı            | Kurum                 | Başlık                  | Özet | Sunum | Video | Script|
+|---------------------|-------------------------------|----------------------|-----------------------|-------------------------|------|-------|-------|-------|
 |Cuma Akşam           | 21:00 - 21:30                 | Doç. Dr. Gökmen ZARARSIZ      | Kayseri Erciyes Üniversitesi                      |İlaç ve Tanı Sektörlerinde R Kullanımı: Alzheimer Projesi Örneği                         |   |                              
-|                     | 21:30 - 22:00                 | Dr. Öğr. Üyesi Dinçer GÖKSÜLÜK      | Kayseri Erciyes Üniversitesi                       | BioSoft: R programlama dilinde geliştirilen Biyoistatistik/Biyoinformatik yazılımları için bulut tabanlı bir platform                        |[:book:]() |[:chart_with_upwards_trend:](https://github.com/whyr2021turkey/Konusmalar/blob/main/Sunumlar/Dincer_Goksuluk_Sunum.pdf)|[:movie_camera:]()|                     
+|                     | 21:30 - 22:00                 | Dr. Öğr. Üyesi Dinçer GÖKSÜLÜK      | Kayseri Erciyes Üniversitesi                       | BioSoft: R programlama dilinde geliştirilen Biyoistatistik/Biyoinformatik yazılımları için bulut tabanlı bir platform                        |[:book:]() |[:chart_with_upwards_trend:](https://github.com/whyr2021turkey/Konusmalar/blob/main/Sunumlar/Dincer_Goksuluk_Sunum.pdf)|[:movie_camera:]()|[:computer:]()|                     
 |                     | 22:00 - 22:30                 | Doç. Dr. Erdal COŞGUN         | Microsoft Genomics                     |  Bulut Tabanlı Sistemlerde Genetik Araştırmalar: Bioconductor Deneyimi                       | |
 |                     |                               |                      |                       |                         |
 |Cumartesi Sabah      | 11:00 - 11:30                 | Dr. Tuba BİRCAN          | Interface Demography, VUB & HIVA, KU Leuven                        |Kimin için R?                         |
