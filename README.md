@@ -14,7 +14,7 @@ Why R? 2021 Turkey konferansında sunulan çalışmaların özet, sunum ve video
 |                     | 12:30 - 13:00                 | Dr. Öğr. Üyesi Ali O. İlhan         | Özyeğin Üniversitesi                       |R ve Bibliyometrik Analiz: Kısa Bir Giriş                         |
 |                     |                               |                      |                       |                         |
 |Cumartesi Öğle       | 14:00 - 14:30                 | Prof. Dr. Kadir KIZILKAYA | Aydın Adnan Menderes Üniversitesi Biyometri ve Genetik Anabilim Dalı                      |R programında Synbreed Paketini Kullanarak Genomik Seleksiyon Uygulaması| |
-|                     | 14:30 - 15:00                 | Doç. Dr. Hilal ÖZKILINÇ       | Çanakkale Onsekiz Mart Üniversitesi                      |Genomik Çalışmalarda R Kullanımı|Yapılabilir|
+|                     | 14:30 - 15:00                 | Doç. Dr. Hilal ÖZKILINÇ       | Çanakkale Onsekiz Mart Üniversitesi                      |Genomik Çalışmalarda R Kullanımı||
 |                     | 15:00 - 15:30                 | Dr. Öğr. Üyesi Burcu MESTAV         | Çanakkale Onsekiz Mart Üniversitesi İstatistik Bölümü                       |Su Ürünleri ve Ekoloji Alanında R Kullanımı                         ||
 |                     |                               |                                       |                         |
 |Cumartesi Akşam Üzeri| 16:30 - 17:00                 | Arş. Gör. Mehmet Can DEMİR| Bartın Üniversitesi                      |Eğitim Bilimleri Alanında R Yazılımının Kullanıldığı Çalışmalar                         | |
