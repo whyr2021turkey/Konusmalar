@@ -30,6 +30,8 @@ Why R? 2021 Turkey konferansında sunulan çalışmaların özet, sunum ve video
 |                     | 17:30 - 18:00                 | Dr. Ayhan YÜKSEL                                                       | Boğaziçi Üniversitesi                    | R ile Algoritmik Trade||:hourglass_flowing_sand:||:hourglass_flowing_sand: |
 
 :hourglass_flowing_sand: : Yakında erişilebilecektir.
+
 :lock: : Paylaşılması uygun değildir.
+
 - : Bu materyal sunumda kullanılmamıştır.
 
