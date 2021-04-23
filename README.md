@@ -27,7 +27,7 @@ Why R? 2021 Turkey konferansında sunulan çalışmaların özet, sunum ve video
 |                     |                               |                                                                 |                         |
 |Pazar Akşam Üzeri    | 16:30 - 17:00                 | Prof. Dr. Burak SALTOĞLU | Boğaziçi Üniversitesi                                                                |R ile Davranışsal Finans Analizi                         | - |:hourglass_flowing_sand:|[:movie_camera:](https://www.youtube.com/watch?v=t-LIbNkq1io)|:hourglass_flowing_sand: |
 |                     | 17:00 - 17:30                 | Ahmet AKGÜL                                                                | RiskTürk                        |R'da Regresyon Analizi: İstanbul İçin Ev Fiyatları Tahmin Modellemesi| -|-|[:movie_camera:](https://www.youtube.com/watch?v=MxMi8x_nKfU)|[:computer:](https://github.com/rpydaneogrendim/whyR2021Turkey)|
-|                     | 17:30 - 18:00                 | Dr. Ayhan YÜKSEL                                                       | Boğaziçi Üniversitesi                    | R ile Algoritmik Trade||:hourglass_flowing_sand:|-|:hourglass_flowing_sand: |[:movie_camera:](https://www.youtube.com/watch?v=OlrIN8scAP4)|
+|                     | 17:30 - 18:00                 | Dr. Ayhan YÜKSEL                                                       | Boğaziçi Üniversitesi                    | R ile Algoritmik Trade||:hourglass_flowing_sand:|[:movie_camera:](https://www.youtube.com/watch?v=OlrIN8scAP4)|:hourglass_flowing_sand: |
 
 :hourglass_flowing_sand: : Yakında erişilebilecektir.
 
