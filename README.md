@@ -33,5 +33,5 @@ Why R? 2021 Turkey konferansında sunulan çalışmaların özet, sunum ve video
 
 :lock: : Paylaşılması uygun değildir.
 
-- : Bu materyal sunumda kullanılmamıştır.
+-: Bu materyal sunumda kullanılmamıştır.
 
